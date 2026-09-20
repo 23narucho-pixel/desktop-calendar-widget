@@ -18,4 +18,4 @@ Google 로그인 중 **Google에서 확인하지 않은 앱** 화면이 나오�
 
 앱은 캘린더 목록과 일정 읽기 권한만 요청합니다. 로그인 토큰과 일정 캐시는 현재 Windows 사용자 계정으로 암호화해 PC에 저장합니다.
 
-지원: b01@dajeong.sjedues.kr
+지원: 25gyodongcho@gmail.com
